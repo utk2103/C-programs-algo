@@ -312,8 +312,10 @@ scanf("%d",&num);
                                                              int i=1; 
                                                              int val;
                                                               printf("Enter the value you want to search in the linked list: \n"); 
-                                                              scanf("%d",&val); 
-                                                              while(ptr->next!=start)
+                                                              scanf("%d",&val) 
+                                                              
+                                                              
+                                      while(ptr->next!=start)
                                                               { if(ptr->data==val)
                                                               { 
                                                                 printf("The element %d is present at %d position in the linked list.\n",val,i); 
