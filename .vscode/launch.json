@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Coding/My-first-repo/Sorting",
-      "program": "c:/Coding/My-first-repo/Sorting/build/Debug/outDebug",
+      "cwd": "c:/Coding/C-programs-algo",
+      "program": "c:/Coding/C-programs-algo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
